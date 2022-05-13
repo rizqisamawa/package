@@ -1,0 +1,21 @@
+{
+  "name": "rizqisamawa",
+  "version": "1.0.3",
+  "description": "Credits",
+  "main": "index.js",
+  "bin": {
+    "rizqisamawa": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhamad Rizqi Samawa",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "center-align": "^1.0.1",
+    "figlet": "^1.5.0",
+    "justified": "^1.0.1"
+  }
+}
